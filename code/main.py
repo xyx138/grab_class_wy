@@ -1,7 +1,5 @@
 from utils import getCookies, getClassList, getID, get_urls
 from time import sleep
-from selenium.webdriver.common.alert import Alert
-from selenium.webdriver.common.by import By
 from query_url import run  
 from requests import Session
 if __name__ == "__main__":
