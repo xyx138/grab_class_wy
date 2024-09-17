@@ -1,5 +1,5 @@
 # grab_class_wy
-捡漏素拓**外语**课的python脚本（USTB）
+北京科技大学捡漏素拓**外语**课python脚本（USTB）
 
 
 
